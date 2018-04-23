@@ -1,4 +1,4 @@
-# Text Splitter -- Adobe Animate CC Command
+# Text Splitter -- Command for Adobe Animate CC
 
   Save "TextSplitter.jsfl" in "/Users/[USER]/Library/Application Support/Adobe/Animate CC 2015.2/en_US/Configuration/Commands/" or wherever your Adobe Animate commands are configured to be saved. After doing so, "TextSplitter" will show up in the Adobe Animate "Commands" drop-down selection.
   
